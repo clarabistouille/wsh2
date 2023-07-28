@@ -1,6 +1,9 @@
 ---
-title: Youhou les blobs
+title: "Youhou les blobs"
+order: 1
 ---
+J'ai mis un index normalement
+
 blob 
 ![Texte décrivant l'image](/images/Design_sans_titre-removebg-preview.png) 
 
